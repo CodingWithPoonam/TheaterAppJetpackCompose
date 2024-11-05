@@ -16,7 +16,7 @@ val FeatureMoviesData = listOf(
         id = 0,
         img = R.drawable.img_movie_poster_2,
         title = "Jailer",
-        description = "A retired jailer goes on a manhunt to find his son's killers",
+        description = "A retired jailer goes on a manhunt to find his son's killers. But the road leads him to a familiar, albeit a bit darker place",
         timeSlots = listOf(
             "3:30 PM",
             "6:00 PM",
